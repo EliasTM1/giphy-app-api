@@ -1,27 +1,21 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
-## Development server
+My fisrt App with Angular using Giphy API
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Making use of
 
-## Code scaffolding
+##Modules
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##Components
 
-## Build
+##Sevices
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+##Pipes
 
-## Running unit tests
+Using localStorage to save querys. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Need to work on the CSS:
 
-## Running end-to-end tests
+Make the history elements fixed
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
